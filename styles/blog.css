@@ -189,7 +189,7 @@ nav ul a {
   background-color: #fff;
   padding: 10px;
   border-radius: 12px;
-  max-width: 300px;
+  max-width: 350px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   text-align: left;
 }
@@ -225,5 +225,52 @@ font-size: 0.95rem;
 font-size: 0.85rem;
 color: #6b7280;
 }
+
+/* Focus better section */
+.focus-section {
+border: 2px solid #3b82f6;
+border-radius: 12px;
+padding: 60px 20px;
+margin: 60px auto;
+text-align: center;
+max-width: 1140px;
+background-color: #ffffff;
+width: 1807px;
+
+}
+.focus-title {
+font-size: 2rem;
+font-weight: 700;
+margin-bottom: 12px;
+}
+.focus-subtext {
+font-size: 1rem;
+color: #6b7280;
+margin-bottom: 24px;
+}
+.focus-btn {
+padding: 10px 24px;
+background-color: #4E47FF;
+color: white;
+border: none;
+font-size: 1rem;
+font-weight: 500;
+border-radius: 6px;
+cursor: pointer;
+margin-bottom: 30px;
+}
+.focus-btn:hover {
+background-color: #4E47FF;
+}
+.focus-image-wrapper {
+margin-top: 20px;
+}
+.focus-img {
+width: 100%;
+max-width: 840px;
+border-radius: 48px;
+
+}
+
 
 
